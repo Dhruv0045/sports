@@ -2,9 +2,6 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/LssJYDQ6/CC-20240624-030354.png" group-title="Cricket",Denver Is Alive
-https://denverisalive.github.io/Intro/Denver.m3u8
-
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://i.postimg.cc/Nfz7CWJp/image.jpg" group-title="Cricket",Star Sports Select 1 Opplex
 #EXTVLCOPT:http-user-agent=Denver1769
 http://port.denver1769.fun/oplx3.php?id=109993
