@@ -599,7 +599,7 @@ http://continental-accompanied-recovered-mhz.trycloudflare.com/TATA/manifest.php
 #KODIPROP:inputstream.adaptive.license_key=http://continental-accompanied-recovered-mhz.trycloudflare.com/TATA/keys.php?id=24
 #EXTHTTP:{"origin":"https://watch.tataplay.com", "referer":"https://watch.tataplay.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="ts24" tvg-name="Star Sports 1 Hindi HD" group-title="Sports: 𝒟𝒽𝓇𝓊𝓋 ⓅⒶⓉⒾⓁ" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png", Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-id="ts24" tvg-name="🏆Star Sports 1 Hindi HD🏆" group-title="⚽Sports: 𝒟𝒽𝓇𝓊𝓋 ⓅⒶⓉⒾⓁ⚽" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png", Star Sports 1 Hindi HD
 http://continental-accompanied-recovered-mhz.trycloudflare.com/TATA/manifest.php?id=24|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"&Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
