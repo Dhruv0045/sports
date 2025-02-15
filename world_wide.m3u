@@ -10,3 +10,7 @@ https://starshare.live:443/live/benben/benben/98857.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Tata Play|Movies" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: Zee Cinema 4K
 https://starshare.live:443/live/benben/benben/98860.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Tata Play|Sports" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: Star Sports Hindi
+
+https://starshare.live:443/live/benben/benben/98866.ts
