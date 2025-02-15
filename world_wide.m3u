@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,IN: STAR GOLD (4K).
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Disney%2B_Hotstar_2024.svg/800px-Disney%2B_Hotstar_2024.svg.png" group-title="Movies",IN: STAR GOLD (4K).
 https://starshare.live:443/live/benben/benben/98858.ts
 
-#EXTINF:-1,IN: STAR GOLD SELECT (4K).
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Disney%2B_Hotstar_2024.svg/800px-Disney%2B_Hotstar_2024.svg.png" group-title="Movies",IN: STAR GOLD SELECT (4K).
 https://starshare.live:443/live/benben/benben/98859.ts
