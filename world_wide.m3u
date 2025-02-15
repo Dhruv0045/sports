@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Star_Gold_4K.png/revision/latest?cb=20161116175852" group-title="Movies",IN: STAR GOLD (4K).
+#EXTGRP:Tata Play|Movies tvg-logo="https://swarajya.gumlet.io/swarajya/2022-09/56703d5b-4863-4cb3-acc0-9efe39f4226e/Screenshot_2022_09_03_at_2_25_24_PM.jpg?w=610&q=50&compress=true&format=auto"
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Star_Gold_4K.png/revision/latest?cb=20161116175852" group-title="Tata Play|Movies",IN: STAR GOLD (4K).
 https://starshare.live:443/live/benben/benben/98858.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M_400x400.jpg" group-title="Movies",IN: STAR GOLD SELECT (4K).
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M_400x400.jpg" group-title="Tata Play|Movies",IN: STAR GOLD SELECT (4K).
 https://starshare.live:443/live/benben/benben/98859.ts
