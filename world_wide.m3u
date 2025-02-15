@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTGRP:Tata Play|Movies tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png"
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png" group-title="Tata Play|Movies",Tata Play | Movies Logo
+https://starshare.live:443/live/benben/benben/98861.ts  # Placeholder stream (replace with a valid link)
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Star_Gold_4K.png/revision/latest?cb=20161116175852" group-title="Tata Play|Movies",IN: STAR GOLD (4K).
 https://starshare.live:443/live/benben/benben/98858.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1039847503829585920/uHnCus7M_400x400.jpg" group-title="Tata Play|Movies",IN: STAR GOLD SELECT (4K).
 https://starshare.live:443/live/benben/benben/98859.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Tata Play|Movies",IN:Sony max.
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Tata Play|Movies",IN: Sony Max.
 https://starshare.live:443/live/benben/benben/98857.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Tata Play|Movies",IN:Zee Cinema 4k.
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Tata Play|Movies",IN: Zee Cinema 4K.
 https://starshare.live:443/live/benben/benben/98860.ts
