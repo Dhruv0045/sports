@@ -1,6 +1,6 @@
 from github import Github
 
-GITHUB_TOKEN = "your_new_generated_token_here"
+GITHUB_TOKEN = "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"
 REPO_NAME = "Dhruv0045/sports"
 
 g = Github(GITHUB_TOKEN)
