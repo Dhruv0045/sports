@@ -4,7 +4,7 @@ import re
 from github import Github
 
 # --- 🔐 Configuration ---
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Use GitHub Secrets
+GITHUB_TOKEN = os.getenv("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")  # Use GitHub Secrets
 REPO_NAME = "Dhruv0045/sports"
 M3U_FILE_PATH = "world_wide.m3u"
 JSON_URL = "https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_hls_m3u8.Json"
