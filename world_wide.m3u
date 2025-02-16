@@ -15,7 +15,7 @@ https://starshare.live:443/live/benben/benben/98860.ts
 https://starshare.live:443/live/benben/benben/98866.ts
 
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz" group-title="Sony liv|Sports" 
-#EXTINF: -1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv", SONY HD
+#EXTINF: -1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"  group-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sony Liv", SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="1000009248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sony Liv", SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
