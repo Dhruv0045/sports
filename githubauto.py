@@ -1,12 +1,8 @@
-from github import Github
+import os
 
-GITHUB_TOKEN = "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"
-REPO_NAME = "Dhruv0045/sports"
+GITHUB_TOKEN = os.getenv("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")  # Make sure you're using the correct variable
 
-g = Github(GITHUB_TOKEN)
-repo = g.get_repo(REPO_NAME)
-
-files = repo.get_contents("")
-print("📂 Files in the repository:")
-for file in files:
-    print(file.path)  # This should list all files
+if not GITHUB_TOKEN:
+    print("❌ GitHub token is missing!")
+else:
+    print("✅ Token is loaded successfully!")
