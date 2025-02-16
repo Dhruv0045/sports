@@ -4,7 +4,7 @@ import re
 from github import Github
 
 # Use direct assignment if running locally
-GITHUB_TOKEN = "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"  # Replace with your token
+GITHUB_TOKEN = "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"  # Replace with your token
 # OR use this if using environment variables:
 # GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
