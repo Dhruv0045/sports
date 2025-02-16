@@ -69,25 +69,24 @@ https://starshare.live:443/live/benben/benben/5862.ts
 #EXTINF:-1  tvg-logo="https://cdn.brandfetch.io/id8Q2xYp0f/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Tata Play|Marathi|News" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Marathi:TV9 Marathi
 https://starshare.live:443/live/benben/benben/5863.ts
 
-#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNS@2x.png",group-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png"Phoenix vs Bandhaghat 11 - BOX Office White Ball T20
-https://dai.google.com/linear/hls/event/uWsIpPgPRI6wp-2lc5xuCg/master.m3u8
+#EXTINF:-1 tvg-id="118115" tvg-name="Wild Woods Warriors vs Manohar Mavericks" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WWD@2x.png" group-title="Fancode 🏏", Wild Woods Warriors 🆚 Manohar Mavericks 🏏
+https://dai.google.com/linear/hls/event/hkoeQgfOTX6wKaR7LU8abg/master.m3u8
 
-#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png", Tanzania vs Singapore - ICC CWC Challenge League B, 2024-26
-https://dai.google.com/linear/hls/event/AtqBL2G-RiKx5A0OZYIWrw/master.m3u8
-
-#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png", Hong Kong, China vs Italy - ICC CWC Challenge League B, 2024-26
-https://dai.google.com/linear/hls/event/DpYBlx42S-6KEMWWenDQbQ/master.m3u8
-
-#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAT@2x.png", Talanoa Tigers vs Punjab Panthers - Chandigarh T20
-https://dai.google.com/linear/hls/event/uJ7eKGzZQ_6wRr6FLmqArQ/master.m3u8
-
-#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png", Namibia vs Oman - ICC CWC League 2, 2023-27
+#EXTINF:-1 tvg-id="118179" tvg-name="Namibia vs Oman" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png" group-title="Fancode 🏏", Namibia 🇳🇦 🆚 Oman 🇴🇲 🏏
 https://dai.google.com/linear/hls/event/OJI4oboUQI-h5YQwduQ1SA/master.m3u8
 
-#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png", Machida Zelvia vs Sanfrecce Hiroshima - J League 2025
-https://dai.google.com/linear/hls/event/OYWmgg6MTECoMA8tJr4GUA/master.m3u8
+#EXTINF:-1 tvg-id="118001" tvg-name="Sapience vs Union Sporting" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPCT@2x.png" group-title="Fancode 🏏", Sapience ⚡🆚 Union Sporting 🏏
+https://dai.google.com/linear/hls/event/_lY2M3lJQwynG5YCIrhOAA/master.m3u8
 
-#EXTM3U
+#EXTINF:-1 tvg-id="116937" tvg-name="Zimbabwe vs Ireland" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png" group-title="Fancode 🏏", Zimbabwe 🇿🇼 🆚 Ireland 🇮🇪 🏏
+https://dai.google.com/linear/hls/event/d6WO56zoSSOM8QoRdOT7tg/master.m3u8
+
+#EXTINF:-1 tvg-id="118279" tvg-name="Swieqi United vs Power Hitters" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWEQ@2x.png" group-title="Fancode 🏏", Swieqi United 🔥🆚 Power Hitters 💥🏏
+https://dai.google.com/linear/hls/event/q59sYiDBQcanevd6Wy4fiQ/master.m3u8
+
+#EXTINF:-1 tvg-id="118825" tvg-name="DPR Korea U20 vs Jordan U20" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NK@2x.png" group-title="Fancode ⚽", DPR Korea U20 🇰🇵 🆚 Jordan U20 🇯🇴 ⚽
+https://dai.google.com/linear/hls/event/B8CUWPVER6KZ0Q6lzs3LFA/master.m3u8
+
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Jio Cinema Entertainment", Colors HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1739750437~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=d8a10eff6b7909a8e25049bf1ec4b2dce457a088124cdbb8c48a97b8cd21d28d/JC_ColorsHD.m3u8
