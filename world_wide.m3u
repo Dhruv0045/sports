@@ -87,3 +87,8 @@ https://dai.google.com/linear/hls/event/OJI4oboUQI-h5YQwduQ1SA/master.m3u8
 #EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png", Machida Zelvia vs Sanfrecce Hiroshima - J League 2025
 https://dai.google.com/linear/hls/event/OYWmgg6MTECoMA8tJr4GUA/master.m3u8
 
+#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Entertainment", Colors HD
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://jcevents.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1739750437~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=d8a10eff6b7909a8e25049bf1ec4b2dce457a088124cdbb8c48a97b8cd21d28d/JC_ColorsHD.m3u8
+
+
