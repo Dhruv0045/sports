@@ -68,21 +68,31 @@ https://starshare.live:443/live/benben/benben/5856.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/1200px-ABP_Majha_logo.svg.png" group-title="Tata Play|Marathi|News" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Marathi:News18 Lokmat
 https://starshare.live:443/live/benben/benben/5862.ts
+#EXTM3U
 
-#EXTINF:-1  tvg-logo="https://cdn.brandfetch.io/id8Q2xYp0f/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Tata Play|Marathi|News" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Marathi:TV9 Marathi
-https://starshare.live:443/live/benben/benben/5863.ts
+#EXTINF:-1 tvg-id="118944" tvg-name="JCA vs Fireox" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JCA@2x.png" group-title="Fancode 🏏", JCA 🆚 Fireox 🏏
+https://dai.google.com/linear/hls/event/zgWTN_jnT_CIkIf7kRsM_Q/master.m3u8
 
-#EXTINF:-1 tvg-id="118280" tvg-name="Swieqi United vs Power Hitters" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWEQ@2x.png" group-title="Fancode 🏏", Swieqi United 🆚 Power Hitters 🏏
-https://dai.google.com/linear/hls/event/eX_LSKNqSfWBIcIH8m0MGA/master.m3u8
+#EXTINF:-1 tvg-id="118282" tvg-name="Red Stars vs Edex Knights" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RS-CR2@2x.png" group-title="Fancode 🏏", Red Stars 🆚 Edex Knights 🏏
+https://dai.google.com/linear/hls/event/FOucTkj8QqGBLUMtqjN7Fw/master.m3u8
 
-#EXTINF:-1 tvg-id="118001" tvg-name="Sapience vs Union Sporting" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPCT@2x.png" group-title="Fancode 🏏", Sapience ⚡🆚 Union Sporting 🏏
-https://dai.google.com/linear/hls/event/_lY2M3lJQwynG5YCIrhOAA/master.m3u8
+#EXTINF:-1 tvg-id="119414" tvg-name="Delhi Royals vs Rajasthan Kings" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLR@2x.png" group-title="Fancode 🏏", Delhi Royals 🆚 Rajasthan Kings 🏏
+https://dai.google.com/linear/hls/event/pD5ZAy7CQ2GdNTW4vkMvqg/master.m3u8
 
 #EXTINF:-1 tvg-id="116937" tvg-name="Zimbabwe vs Ireland" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png" group-title="Fancode 🏏", Zimbabwe 🇿🇼 🆚 Ireland 🇮🇪 🏏
 https://dai.google.com/linear/hls/event/d6WO56zoSSOM8QoRdOT7tg/master.m3u8
 
-#EXTINF:-1 tvg-id="118826" tvg-name="Yemen U20 vs IR Iran U20" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/YMN-FT2@2x.png" group-title="Fancode ⚽", Yemen U20 🇾🇪 🆚 IR Iran U20 🇮🇷 ⚽
-https://dai.google.com/linear/hls/event/1Rxx2ilLT-mek2devvkV6A/master.m3u8
+#EXTINF:-1 tvg-id="118896" tvg-name="Feed E - Day 4" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-GO@2x.png" group-title="Fancode 🏌️‍♂️", Feed E - Day 4 🏌️‍♂️
+https://dai.google.com/linear/hls/event/fLd-HtMKRDGwuH77i7l8pw/master.m3u8
+
+#EXTINF:-1 tvg-id="118895" tvg-name="Feed C - Day 4" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-GO@2x.png" group-title="Fancode 🏌️‍♂️", Feed C - Day 4 🏌️‍♂️
+https://dai.google.com/linear/hls/event/pOkbr52_ScKwgAfLq38O8g/master.m3u8
+
+#EXTINF:-1 tvg-id="118893" tvg-name="Feed B - Day 4" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-GO@2x.png" group-title="Fancode 🏌️‍♂️", Feed B - Day 4 🏌️‍♂️
+https://dai.google.com/linear/hls/event/vZxa8ha5RtqY9dNjLng0dg/master.m3u8
+
+#EXTINF:-1 tvg-id="118894" tvg-name="Feed D - Day 4" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-GO@2x.png" group-title="Fancode 🏌️‍♂️", Feed D - Day 4 🏌️‍♂️
+https://dai.google.com/linear/hls/event/GHpt8wN9SW2zAPMUJwlA2g/master.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Jio Cinema Entertainment", Colors HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
