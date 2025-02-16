@@ -60,6 +60,9 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="821" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Sony Liv", BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Tata Play|Kids" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Hungama
+https://starshare.live:443/live/benben/benben/18456.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Sony_Marathi.png" group-title="Tata Play|Marathi" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: Sony Marathi
 https://starshare.live:443/live/benben/benben/5856.ts
 
