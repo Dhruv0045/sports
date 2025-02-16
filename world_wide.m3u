@@ -69,16 +69,21 @@ https://starshare.live:443/live/benben/benben/5862.ts
 #EXTINF:-1  tvg-logo="https://cdn.brandfetch.io/id8Q2xYp0f/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="Tata Play|Marathi|News" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Marathi:TV9 Marathi
 https://starshare.live:443/live/benben/benben/5863.ts
 
-
-#EXTINF:-1 tvg-id="Phoenix" tvg-name="Phoenix vs Bandhaghat 11" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNS@2x.png" group-title="Fancode",group-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/FanCode-Logo-2022_FanCode-OrangeOnTransarent.png" Phoenix vs Bandhaghat 11
+#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNS@2x.png",group-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png"Phoenix vs Bandhaghat 11 - BOX Office White Ball T20
 https://dai.google.com/linear/hls/event/uWsIpPgPRI6wp-2lc5xuCg/master.m3u8
 
-#EXTINF:-1 tvg-id="Tanzania" tvg-name="Tanzania vs Singapore" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png" group-title="Fancode", Tanzania vs Singapore
+#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png", Tanzania vs Singapore - ICC CWC Challenge League B, 2024-26
 https://dai.google.com/linear/hls/event/AtqBL2G-RiKx5A0OZYIWrw/master.m3u8
 
-#EXTINF:-1 tvg-id="HongKongChina" tvg-name="Hong Kong, China vs Italy" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png" group-title="Fancode", Hong Kong, China vs Italy
+#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png", Hong Kong, China vs Italy - ICC CWC Challenge League B, 2024-26
 https://dai.google.com/linear/hls/event/DpYBlx42S-6KEMWWenDQbQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TalanoaTigers" tvg-name="Talanoa Tigers vs Punjab Panthers" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAT@2x.png" group-title="Fancode", Talanoa Tigers vs Punjab Panthers
+#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAT@2x.png", Talanoa Tigers vs Punjab Panthers - Chandigarh T20
 https://dai.google.com/linear/hls/event/uJ7eKGzZQ_6wRr6FLmqArQ/master.m3u8
+
+#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png", Namibia vs Oman - ICC CWC League 2, 2023-27
+https://dai.google.com/linear/hls/event/OJI4oboUQI-h5YQwduQ1SA/master.m3u8
+
+#EXTINF:-1 group-title="FanCode" tvg-logo="https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png", Machida Zelvia vs Sanfrecce Hiroshima - J League 2025
+https://dai.google.com/linear/hls/event/OYWmgg6MTECoMA8tJr4GUA/master.m3u8
 
