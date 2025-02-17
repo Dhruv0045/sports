@@ -67,184 +67,183 @@ https://starshare.live:443/live/benben/benben/5856.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/1200px-ABP_Majha_logo.svg.png" group-title="Tata Play|Marathi|News" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Marathi:News18 Lokmat
 https://starshare.live:443/live/benben/benben/5862.ts
 
-
-#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors HD
+#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsHD.m3u8
 
-#EXTINF:-1 tvg-id="3694635" tvg-name="Rishtey" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Rishtey
+#EXTINF:-1 tvg-id="3694635" tvg-name="Rishtey" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Rishtey
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsRishtey.m3u8
 
-#EXTINF:-1 tvg-id="3774158" tvg-name="Colors Bengla HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Bengla HD
+#EXTINF:-1 tvg-id="3774158" tvg-name="Colors Bengla HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Bengla HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsBanglaHD.m3u8
 
-#EXTINF:-1 tvg-id="3774156" tvg-name="Colors Kannada HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Kannada HD
+#EXTINF:-1 tvg-id="3774156" tvg-name="Colors Kannada HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Kannada HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsKannadaHD.m3u8
 
-#EXTINF:-1 tvg-id="3774154" tvg-name="Colors Marathi HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Marathi HD
+#EXTINF:-1 tvg-id="3774154" tvg-name="Colors Marathi HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Marathi HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsMarathiHD.m3u8
 
-#EXTINF:-1 tvg-id="3774146" tvg-name="Colors Tamil HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Tamil HD
+#EXTINF:-1 tvg-id="3774146" tvg-name="Colors Tamil HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Tamil HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsTamilHD.m3u8
 
-#EXTINF:-1 tvg-id="3774144" tvg-name="Colors Gujarati" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Gujarati
+#EXTINF:-1 tvg-id="3774144" tvg-name="Colors Gujarati" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Gujarati
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsGujarati/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsGujarati.m3u8
 
-#EXTINF:-1 tvg-id="3774148" tvg-name="Colors Oriya" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-odia-live-channels-16x9-4-1642583679866.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Oriya
+#EXTINF:-1 tvg-id="3774148" tvg-name="Colors Oriya" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-odia-live-channels-16x9-4-1642583679866.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Oriya
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsOdia/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsOdia.m3u8
 
-#EXTINF:-1 tvg-id="3774152" tvg-name="Comedy Central HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/comedy-central-16x9-1624419769894-1663699927285.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Comedy Central HD
+#EXTINF:-1 tvg-id="3774152" tvg-name="Comedy Central HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/comedy-central-16x9-1624419769894-1663699927285.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Comedy Central HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ComedyCentralHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ComedyCentralHD.m3u8
 
-#EXTINF:-1 tvg-id="3774150" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Infinity HD
+#EXTINF:-1 tvg-id="3774150" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsInfinityHD.m3u8
 
-#EXTINF:-1 tvg-id="3774157" tvg-name="Colors Super" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg" group-title="Jio Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Super
+#EXTINF:-1 tvg-id="3774157" tvg-name="Colors Super" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Super
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsSuperKannada.m3u8
 
-#EXTINF:-1 tvg-id="3774155" tvg-name="Colors Cineplex HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="Jio Jio Movies" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Cineplex HD
+#EXTINF:-1 tvg-id="3774155" tvg-name="Colors Cineplex HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="Jio Movies" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Cineplex HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsCineplexHD.m3u8
 
-#EXTINF:-1 tvg-id="3479683" tvg-name="Colors Cineplex Superhit" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="Jio Jio Movies" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Cineplex Superhit
+#EXTINF:-1 tvg-id="3479683" tvg-name="Colors Cineplex Superhit" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="Jio Movies" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Cineplex Superhit
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsCineplexSuperhit.m3u8
 
-#EXTINF:-1 tvg-id="3845693" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="Jio Jio Movies" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="3845693" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="Jio Movies" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Cineplex Bollywood
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsCineplexBollywood.m3u8
 
-#EXTINF:-1 tvg-id="3953979" tvg-name="Colors Kannada Cinema" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg" group-title="Jio Jio Movies" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Kannada Cinema
+#EXTINF:-1 tvg-id="3953979" tvg-name="Colors Kannada Cinema" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg" group-title="Jio Movies" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors Kannada Cinema
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsKannadaCinema.m3u8
 
-#EXTINF:-1 tvg-id="3774151" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="Jio Jio Music" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", MTV HD
+#EXTINF:-1 tvg-id="3774151" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="Jio Music" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", MTV HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_MTVHD.m3u8
 
-#EXTINF:-1 tvg-id="3774153" tvg-name="MTV Beats HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg" group-title="Jio Jio Music" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", MTV Beats HD
+#EXTINF:-1 tvg-id="3774153" tvg-name="MTV Beats HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg" group-title="Jio Music" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", MTV Beats HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_MTVBeatsHD.m3u8
 
-#EXTINF:-1 tvg-id="3989195" tvg-name="Nick SD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/16x9-1719554242246.jpg" group-title="Jio Jio Kids" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Nick SD
+#EXTINF:-1 tvg-id="3989195" tvg-name="Nick SD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/16x9-1719554242246.jpg" group-title="Jio Kids" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Nick SD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_NickSD.m3u8
 
-#EXTINF:-1 tvg-id="3774142" tvg-name="Nick Junior" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg" group-title="Jio Jio Kids" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Nick Junior
+#EXTINF:-1 tvg-id="3774142" tvg-name="Nick Junior" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg" group-title="Jio Kids" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Nick Junior
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_NickJr.m3u8
 
-#EXTINF:-1 tvg-id="3774147" tvg-name="Nick HD+" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" group-title="Jio Jio Kids" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Nick HD+
+#EXTINF:-1 tvg-id="3774147" tvg-name="Nick HD+" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" group-title="Jio Kids" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Nick HD+
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_NickHD.m3u8
 
-#EXTINF:-1 tvg-id="3774149" tvg-name="Sonic" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Jio Jio Kids" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Sonic
+#EXTINF:-1 tvg-id="3774149" tvg-name="Sonic" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="Jio Kids" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Sonic
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_SonicNick.m3u8
 
-#EXTINF:-1 tvg-id="1226" tvg-name="SPORTS 18 HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg" group-title="Jio Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", SPORTS 18 HD
+#EXTINF:-1 tvg-id="1226" tvg-name="SPORTS 18 HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg" group-title="Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", SPORTS 18 HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_Sports18_1HD.m3u8
 
-#EXTINF:-1 tvg-id="3479885" tvg-name="SPORTS 18 Khel" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg" group-title="Jio Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", SPORTS 18 Khel
+#EXTINF:-1 tvg-id="3479885" tvg-name="SPORTS 18 Khel" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg" group-title="Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", SPORTS 18 Khel
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/Sports18_Khel_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3823866" tvg-name="JC Sports 24x7" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg" group-title="Jio Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", JC Sports 24x7
+#EXTINF:-1 tvg-id="3823866" tvg-name="JC Sports 24x7" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg" group-title="Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", JC Sports 24x7
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_Sports_24x7_IDC.m3u8
 
-#EXTINF:-1 tvg-id="3516587" tvg-name="Hype Testing (Dev)" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/asia_cup_afg_vs_sl_horizontal-1702902846282.jpg" group-title="Jio Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Hype Testing (Dev)
+#EXTINF:-1 tvg-id="3516587" tvg-name="Hype Testing (Dev)" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/asia_cup_afg_vs_sl_horizontal-1702902846282.jpg" group-title="Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Hype Testing (Dev)
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://prod-sports-north-cf.jiocinema.com/hls/live/2109876/spot_avc_44/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/master.m3u8
 
-#EXTINF:-1 tvg-id="3479975" tvg-name="CricStream" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg" group-title="Jio Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CricStream
+#EXTINF:-1 tvg-id="3479975" tvg-name="CricStream" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg" group-title="Jio Sports" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CricStream
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JV_SportsHD15_DIG_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479701" tvg-name="CNBC Awaaz" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg" group-title="Jio Jio Business" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CNBC Awaaz
+#EXTINF:-1 tvg-id="3479701" tvg-name="CNBC Awaaz" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg" group-title="Jio Business" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CNBC Awaaz
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/CNBC_Awaaz_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479702" tvg-name="CNBC Bazaar" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg" group-title="Jio Jio Business" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CNBC Bazaar
+#EXTINF:-1 tvg-id="3479702" tvg-name="CNBC Bazaar" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg" group-title="Jio Business" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CNBC Bazaar
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/CNBC_Awaaz_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479700" tvg-name="CNBC Tv 18" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg" group-title="Jio Jio Business" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CNBC Tv 18
+#EXTINF:-1 tvg-id="3479700" tvg-name="CNBC Tv 18" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg" group-title="Jio Business" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CNBC Tv 18
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/CNBC_TV18_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479311" tvg-name="CNN NEWS 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CNN NEWS 18
+#EXTINF:-1 tvg-id="3479311" tvg-name="CNN NEWS 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", CNN NEWS 18
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/CNN_News18_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479312" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 India
+#EXTINF:-1 tvg-id="3479312" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 India
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_India_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479927" tvg-name="News18 Tamilnadu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Tamilnadu
+#EXTINF:-1 tvg-id="3479927" tvg-name="News18 Tamilnadu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Tamilnadu
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Tamil_Nadu_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Tamil_Nadu_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479685" tvg-name="News18 Lokmat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Lokmat
+#EXTINF:-1 tvg-id="3479685" tvg-name="News18 Lokmat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Lokmat
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Lokmat_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479686" tvg-name="News18 Bangla News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Bangla News
+#EXTINF:-1 tvg-id="3479686" tvg-name="News18 Bangla News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Bangla News
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Bangla_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479925" tvg-name="News18 Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Kannada News
+#EXTINF:-1 tvg-id="3479925" tvg-name="News18 Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Kannada News
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Kannada_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Kannada_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479699" tvg-name="News18 Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Gujarati
+#EXTINF:-1 tvg-id="3479699" tvg-name="News18 Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Gujarati
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Gujarati_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479304" tvg-name="News18 Punjab Haryana" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Punjab Haryana
+#EXTINF:-1 tvg-id="3479304" tvg-name="News18 Punjab Haryana" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Punjab Haryana
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Punjab_Haryana_HP_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479926" tvg-name="News18 Oriya" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Oriya
+#EXTINF:-1 tvg-id="3479926" tvg-name="News18 Oriya" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Oriya
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Odia_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Odia_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479930" tvg-name="News18 Assam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Assam
+#EXTINF:-1 tvg-id="3479930" tvg-name="News18 Assam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 Assam
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Assam_North_East_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Assam_North_East_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479929" tvg-name="News 18 Kerala" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News 18 Kerala
+#EXTINF:-1 tvg-id="3479929" tvg-name="News 18 Kerala" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News 18 Kerala
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Kerala_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479570" tvg-name="News18 RAJASTHAN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 RAJASTHAN
+#EXTINF:-1 tvg-id="3479570" tvg-name="News18 RAJASTHAN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 RAJASTHAN
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Rajasthan_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Rajasthan_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479321" tvg-name="News18 BIHAR JHARKHAND" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 BIHAR JHARKHAND
+#EXTINF:-1 tvg-id="3479321" tvg-name="News18 BIHAR JHARKHAND" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 BIHAR JHARKHAND
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Bihar_Jharkhand_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479318" tvg-name="News18 MP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 MP
+#EXTINF:-1 tvg-id="3479318" tvg-name="News18 MP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 MP
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_MP_Chhattisgarh_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479320" tvg-name="News18 UP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 UP
+#EXTINF:-1 tvg-id="3479320" tvg-name="News18 UP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 UP
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_UP_Uttarakhand_voot_MOB.m3u8
 
-#EXTINF:-1 tvg-id="3479316" tvg-name="News18 JAMMU KASHMIR LADAKH & HIMACHAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="Jio Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 JAMMU KASHMIR LADAKH & HIMACHAL
+#EXTINF:-1 tvg-id="3479316" tvg-name="News18 JAMMU KASHMIR LADAKH & HIMACHAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="Jio News" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", News18 JAMMU KASHMIR LADAKH & HIMACHAL
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/News18_Urdu_voot_MOB.m3u8
 
