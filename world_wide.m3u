@@ -14,6 +14,12 @@ https://starshare.live:443/live/benben/benben/98860.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Tata Play|Sports" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: Star Sports Hindi
 https://starshare.live:443/live/benben/benben/98866.ts
 
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2023/04/PICTURES-HD.jpg" group-title="Tata Play|Movies" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: & PICTURES HD
+https://starshare.live:443/live/benben/benben/231.ts
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Tata Play|Movies" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: Colors Cineplex (FHD)
+https://starshare.live:443/live/benben/benben/9378.ts
+
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz" group-title="Sony liv|Sports" 
 #EXTINF: -1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv" group-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png", SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
