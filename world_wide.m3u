@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1, Aaj Tak
+https://live.drmlive.in/zee5/play.php?id=0-9-aajtak
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Star_Gold_4K.png/revision/latest?cb=20161116175852" group-title="Tata Play|Movies" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: STAR GOLD (4K)
 https://starshare.live:443/live/benben/benben/98858.ts
 
@@ -7,6 +11,7 @@ https://starshare.live:443/live/benben/benben/98859.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Tata Play|Movies" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: Sony Max
 https://starshare.live:443/live/benben/benben/98857.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Tata Play|Movies" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: Zee Cinema 4K
 https://starshare.live:443/live/benben/benben/98860.ts
