@@ -67,6 +67,13 @@ https://starshare.live:443/live/benben/benben/5856.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/1200px-ABP_Majha_logo.svg.png" group-title="Tata Play|Marathi|News" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Marathi:News18 Lokmat
 https://starshare.live:443/live/benben/benben/5862.ts
 
+#EXTINF:-1  tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/06/Zee-Marathi.jpg" group-title="Tata Play|Marathi" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Marathi:Zee Marathi 
+https://starshare.live:443/live/benben/benben/85694.ts
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmOvJkhq1Gnhdb85Jr-YODBlwH0Wtz7davg&s" group-title="Tata Play|Marathi" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",Marathi:Zee Talkies
+https://starshare.live:443/live/benben/benben/85695.ts
+
+
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Jio Entertainment" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", Colors HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsHD.m3u8
