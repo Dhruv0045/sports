@@ -127,7 +127,7 @@ https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/hdntl=exp
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_ColorsKannadaCinema.m3u8
 
-#EXTINF:-1 tvg-id="3774151" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="Jio Music" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", MTV HD
+#EXTINF:-1 tvg-id="3774151" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" tvg-id="1" group-title="Jio Music" group-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/28/6426ef0cd1c43.png", MTV HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/hdntl=exp=1739836838~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b6c045938228498667428de64a1101b7d69133aa00c0ec42ef055f77889f90d6/JC_MTVHD.m3u8
 
