@@ -3,6 +3,9 @@
 #EXTINF:-1,Channel Name
 http://suprino.xyz/PMF3J9X/BV7HG8H/1090635
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Star_Gold_4K.png/revision/latest?cb=20161116175852" group-title="Airtel" group-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",Star Sports 1 Hindi (4K)
+http://suprino.xyz//PMF3J9X/BV7HG8H/1090636
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Star_Gold_4K.png/revision/latest?cb=20161116175852" group-title="Tata Play|Movies" group-logo="https://logos-world.net/wp-content/uploads/2022/02/Tata-Play-Logo.png",IN: STAR GOLD (4K)
 https://starshare.live:443/live/benben/benben/98858.ts
 
