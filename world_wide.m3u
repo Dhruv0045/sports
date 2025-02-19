@@ -265,7 +265,13 @@ https://jcevents.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/hd
 https://jcevents.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/hdntl=exp=1740009641~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=d763d5906e5dbae4d906ac3162d3ea8f1777f43063cb2ae00493c13471f840a7/News18_Urdu_voot_MOB.m3u8
 
 
+#EXTINF:-1 ="Dummy"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title= ZEE 5 Entertainment" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",Zee TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-zeetv.m3u8
 
+#EXTINF:-1 ="Dummy"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title= ZEE 5 Entertainment" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",Zee TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-zeetvhd.m3u8
 
 
 
