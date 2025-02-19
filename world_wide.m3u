@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Star-Sports-1-Hindi.png" group-title="Airtel" group-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",Star Sports 1 Hindi (4K)
 http://suprino.xyz//PMF3J9X/BV7HG8H/1090636
 
+        
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+#EXTINF:-1 group-title="Prime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvISNT8zyoO35qL0Juxi4lHf70-o8z4uC8A&s" ,PRIME VIDEO [JOIN TELEGRAM @KASHURFLIX_PLAYLISTS]       
+https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
