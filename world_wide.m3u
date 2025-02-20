@@ -235,6 +235,19 @@ https://jcevents.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/hd
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/hdntl=exp=1740096040~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=b3dae494d6bda5dbe06dd40d6e3cec6efde8c1ac8927e7db86ccf843dc680c6f/News18_Urdu_voot_MOB.m3u8
 
+#EXTINF:-1 ="Dummy" group-logo="#EXTINF:-1 " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title= ZEE 5 Entertainment" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",Zee TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-zeetv.m3u8
+
+#EXTINF:-1 ="Dummy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title= "ZEE 5 Entertainment" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",Zee TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-zeetvhd.m3u8
+#EXTINF:-1 ="Dummy"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png" group-title= "ZEE 5 Entertainment" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",AndTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-tvhd_0.m3u8
+#EXTINF:-1 ="Dummy"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title= "ZEE 5 Entertainment" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",AndTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 
 
 
