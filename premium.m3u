@@ -8,11 +8,6 @@ http://suprino.xyz//PMF3J9X/BV7HG8H/1090636
 #EXTINF:-1 group-title="Prime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvISNT8zyoO35qL0Juxi4lHf70-o8z4uC8A&s" ,PRIME VIDEO    
 https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
-#EXTINF:-1 group-title="Prime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvISNT8zyoO35qL0Juxi4lHf70-o8z4uC8A&s" ,PRIME VIDEO  Hindi     
-https://aba5sdmaaaaaaaamidug47tdi5buy.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l0phze3ehz/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd
-
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz" group-title="Sony liv|Sports" 
 #EXTINF: -1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv" group-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png", SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -256,3 +251,12 @@ https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="ZEE 5 Entertainment" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg", &TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.au/tp/zee-tvhd_0.m3u8
+#EXTINF:-1 ="Dummy"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title= "ZEE 5 Entertainment" ,Zee Bangla 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
+#EXTINF:-1 ="Dummy"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title= "ZEE 5 Entertainment" ,Zee Bangla HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-zeebanglahd.m3u8
+#EXTINF:-1 ="Dummy"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title= "ZEE 5 Movies" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",Zee Bangla Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
