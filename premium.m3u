@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Star-Sports-1-Hindi.png" group-title="Airtel" group-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",Star Sports 1 Hindi (4K)
 http://suprino.xyz//PMF3J9X/BV7HG8H/1090636
 
-#EXTINF:-1 ="Dummy" group-logo="https://i.postimg.cc/GmDKsSRq/IMG-20250217-232039.png=" group-title="Airtel Entertainment" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",STAR Maa HD
+#EXTINF:-1 ="Dummy" group-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg" group-title="Airtel Entertainment" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",STAR Maa HD
 https://star44airtel.indiaiptv270.workers.dev/?id=1019603
         
 #KODIPROP:inputstream.adaptive.license_type=clearkey
