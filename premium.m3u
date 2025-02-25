@@ -8,6 +8,9 @@ https://star44airtel.indiaiptv270.workers.dev/?id=1019603
 
 #EXTINF:-1 ="Dummy" group-logo="" tvg-id="655" group-title="CHAMP TROPHY 🏆 FHD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/76W5Fz3W/images.jpg",STAR SPORTS HINDI AIRTEL
 https://star44airtel.indiaiptv270.workers.dev/?id=1090636
+
+#EXTINF:-1 ="Dummy" group-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg" group-title="Airtel Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",SET HD
+https://star44airtel.indiaiptv270.workers.dev/?id=72146
         
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
