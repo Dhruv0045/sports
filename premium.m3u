@@ -2,22 +2,8 @@
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Star-Sports-1-Hindi.png" group-title="Airtel" group-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",Star Sports 1 Hindi (4K)
 http://suprino.xyz//PMF3J9X/BV7HG8H/1090636
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=78
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Cricket",Star Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.au/tp/78.mpd|X-Forwarded-For=59.178.72.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-
-#EXTINF:-1 tvg-id="ts24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Cricket",Star Sports 1 Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.au/tp/24.mpd|X-Forwarded-For=59.178.72.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-
-
+#EXTINF:-1 ="Dummy" group-logo="https://i.postimg.cc/GmDKsSRq/IMG-20250217-232039.png=" group-title="Airtel Entertainment" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",STAR Maa HD
+https://star44airtel.indiaiptv270.workers.dev/?id=1019603
         
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
