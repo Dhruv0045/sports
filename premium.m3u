@@ -2,6 +2,14 @@
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Star-Sports-1-Hindi.png" group-title="Airtel" group-logo="https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",Star Sports 1 Hindi (4K)
 http://suprino.xyz//PMF3J9X/BV7HG8H/1090636
 
+
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies - Hindi" catchup="yes", Colors Cineplex HD
+http://link.to/stream/Rishtey_Cineplex_voot@9888990015
+
+#EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment - Hindi", DD National
+http://link.to/stream/DD_National@9899990054
+
+
         
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
