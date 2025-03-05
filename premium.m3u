@@ -448,6 +448,6 @@ https://amit-1.allinonereborn.in/zee/index.php?id=0-9-9z5383489
 https://amit-1.allinonereborn.in/zee/index.php?id=0-9-9z5398761
 
 #EXTM3U
-#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" catch-up="yes" catchup-days="2" catchup-type="flussonic" catchup-source="https://jcevents.akamaized.net/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1741219238~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=60a6181c63b4362675bff3660b3d6453b50c210a56a211b4ac20700f082636aa/JC_ColorsHD.m3u8?utc={start}&utcend={end}"
+#EXTINF:-1 tvg-id="3694429" tvg-name="Testing" catch-up="yes" catchup-days="2" catchup-type="flussonic" catchup-source="https://jcevents.akamaized.net/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1741219238~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=60a6181c63b4362675bff3660b3d6453b50c210a56a211b4ac20700f082636aa/JC_ColorsHD.m3u8?utc={start}&utcend={end}"
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.akamaized.net/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1741219238~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=60a6181c63b4362675bff3660b3d6453b50c210a56a211b4ac20700f082636aa/JC_ColorsHD.m3u8
