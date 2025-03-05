@@ -64,7 +64,7 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" catch-up="yes" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Jio Entertainment" group-logo="https://tva.onscreenasia.com/wp-content/uploads/2023/08/JioCinema-Logo-1.png", Colors HD
+#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD"  tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Jio Entertainment" group-logo="https://tva.onscreenasia.com/wp-content/uploads/2023/08/JioCinema-Logo-1.png", Colors HD
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://jcevents.akamaized.net/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1741219238~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=60a6181c63b4362675bff3660b3d6453b50c210a56a211b4ac20700f082636aa/JC_ColorsHD.m3u8
 
@@ -446,3 +446,8 @@ https://amit-1.allinonereborn.in/zee/index.php?id=0-9-9z5383489
 
 #EXTINF:-1 group-logo="https://i.ibb.co/WnfLKSH/unnamed.png" tvg-id="0-9-9z5398761" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 https://amit-1.allinonereborn.in/zee/index.php?id=0-9-9z5398761
+
+#EXTM3U
+#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" catch-up="yes" catchup-days="2" catchup-type="flussonic" catchup-source="https://jcevents.akamaized.net/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1741219238~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=60a6181c63b4362675bff3660b3d6453b50c210a56a211b4ac20700f082636aa/JC_ColorsHD.m3u8?utc={start}&utcend={end}"
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://jcevents.akamaized.net/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1741219238~acl=%2f*~id=a77ed2afc64d4edfa87fa963c3f713b6~data=hdntl~hmac=60a6181c63b4362675bff3660b3d6453b50c210a56a211b4ac20700f082636aa/JC_ColorsHD.m3u8
