@@ -1,0 +1,931 @@
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979d4a9540e6b3ede4b1e/images/542.webp" group-title="🅰️irtel | Entertainment", Zee TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=set
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SET" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp" group-title="🅰️irtel | Entertainment", SET
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/set/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=andtv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b1/images/340.webp" group-title="🅰️irtel | Entertainment", &TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/andtv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=big-magic
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_BIG_MAGIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ed61da847074473880/images/207.webp" group-title="🅰️irtel | Entertainment", Big Magic
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/big-magic/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-sab
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SAB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b3e/images/36221101.webp" group-title="🅰️irtel | Entertainment", SONY SAB
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-sab/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-pal
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_PAL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978b19d8fb452ad919c21/images/519221101.webp" group-title="🅰️irtel | Entertainment", Sony Pal
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-pal/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=investigation-discovery
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff583bf8d2567aab4d6/images/424.webp" group-title="🅰️irtel | Entertainment", Investigation Discovery
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/investigation-discovery/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-anmol
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f59b315d22c1f80fba/images/599.webp" group-title="🅰️irtel | Entertainment", Zee Anmol
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-anmol/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=ishara-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ISHARA_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e25d/images/778.webp" group-title="🅰️irtel | Entertainment", Ishara TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/ishara-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=ez-mall
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_EZ_MALL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e831cd2bb19dca3115c/images/208.webp" group-title="🅰️irtel | Entertainment", EZ Mall
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/ez-mall/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-national
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NATIONAL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611b152133304ca060093/images/550.webp" group-title="🅰️irtel | Entertainment", DD National
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-national/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-india
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_INDIA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e1/images/456.webp" group-title="🅰️irtel | Entertainment", DD India
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-india/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-bharati
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BHARATI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576110f6886c012a8aa294c/images/366.webp" group-title="🅰️irtel | Entertainment", DD Bharati
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-bharati/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-kisan
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_KISAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761106a3b7866cb8414c70/images/665.webp" group-title="🅰️irtel | Infotainment", DD Kisan
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-kisan/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-up
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_UP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8ae/images/568.webp" group-title="🅰️irtel | Entertainment", DD UP
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-up/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-rajasthan
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_RAJASTHAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576113851545a065210830f/images/349.webp" group-title="🅰️irtel | Entertainment", DD Rajasthan
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-rajasthan/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-mp
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_MP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6616ec3851d9d7117a501879/images/399.webp" group-title="🅰️irtel | Entertainment", DD MP
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-mp/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-max
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MAX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1fd033abf53d08e75ac/images/97221101.webp" group-title="🅰️irtel | Movies", SONY Max
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-max/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-cinema
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f51c033abf53d08e967a/images/350.webp" group-title="🅰️irtel | Movies", ZEE CINEMA
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-cinema/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-max-2
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f584fe0772265fedff18/images/13221101.webp" group-title="🅰️irtel | Movies", Sony Max 2
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-max-2/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=andpictures
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SYMANDPICTURES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6584951a0a0fe453216392c3/images/LANDSCAPE_169/LANDSCAPE_169_Fo9O5mMuw_32.webp" group-title="🅰️irtel | Movies", &Pictures
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/andpictures/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-bollywood
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f6f7033abf53d08eaa29/images/654.webp" group-title="🅰️irtel | Movies", Zee Bollywood
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-bollywood/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=action-cinema
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ACTION_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LANDSCAPE_169/LANDSCAPE_169_0n2PRFWbT_Zee-Action_264x144.webp" group-title="🅰️irtel | Movies", Action Cinema
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/action-cinema/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-wah
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_WAH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4d8033abf53d08e93a2/images/294221101.webp" group-title="🅰️irtel | Movies", Sony Wah
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-wah/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-anmol-cinema
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fdf1fe0772265fee5bf3/images/108.webp" group-title="🅰️irtel | Movies", Zee Anmol Cinema
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-anmol-cinema/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=b4u-kadak
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_KADAK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_B4U_KADAK/images/LANDSCAPE_169/LANDSCAPE_169_Ce4nkpXRD_B4U-Kadak_264x144.webp" group-title="🅰️irtel | Movies", B4U Kadak
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/b4u-kadak/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-classic
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_CLASSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797923c4589e08ce80f411/images/547.webp" group-title="🅰️irtel | Movies", Zee Classic
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-classic/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=b4u-movies
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33a/images/650.webp" group-title="🅰️irtel | Movies", B4U Movies
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/b4u-movies/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-anmol-cinema-2
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LANDSCAPE_169/LANDSCAPE_169_bRqgJsZ24_ZAC2-ORANGE_264x144.webp" group-title="🅰️irtel | Movies", Zee Anmol Cinema 2
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-anmol-cinema-2/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=mh-one-dil-se
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH_ONE_DIL_SE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef81033abf53d08e5b99/images/887.webp" group-title="🅰️irtel | Regional", MH One Dil Se
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/mh-one-dil-se/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-sports-ten-3
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b44/images/386221101.webp" group-title="🅰️irtel | Sports", SONY SPORTS TEN 3
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-sports-ten-3/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-sports
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SPORTS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ee83bf8d2567aaca6a/images/667.webp" group-title="🅰️irtel | Sports", DD Sports
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-sports/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=eurosport
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_EUROSPORT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1adb/images/19.webp" group-title="🅰️irtel | Sports", Eurosport
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/eurosport/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=abp-news
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eedd033abf53d08e53f8/images/LANDSCAPE_169/LANDSCAPE_169_t9XCpWn0A_ABP-NEWS-LOGO_264x144.webp" group-title="🅰️irtel | News", ABP News
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/abp-news/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-news
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797945a8676a17df1036cd/images/583.webp" group-title="🅰️irtel | News", Zee News
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-news/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=aaj-tak
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_AAJ_TAK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec8fe0772265fedb972/images/566.webp" group-title="🅰️irtel | News", Aaj Tak
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/aaj-tak/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=india-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_INDIA_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105dfd/images/546.webp" group-title="🅰️irtel | News", India TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/india-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=r-bharat
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_R_BHARAT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cea9540e6b3ede3fb6/images/8.webp" group-title="🅰️irtel | News", R Bharat
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/r-bharat/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=ndtv-india
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NDTV_INDIA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff4885fc401d48ff794/images/304.webp" group-title="🅰️irtel | News", NDTV India
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/ndtv-india/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-bharat
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BHARAT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979c2a8676a17df103ee5/images/430280923.webp" group-title="🅰️irtel | News", Zee Bharat
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-bharat/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=news-nation
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NEWS_NATION" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579788f8d36cd1598f95f1f/images/577.webp" group-title="🅰️irtel | News", News Nation
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/news-nation/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=good-news-today
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e252/images/618.webp" group-title="🅰️irtel | News", Good News Today
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/good-news-today/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=times-now-navbharat
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978c1c5625a16ee72eb49/images/818220423.webp" group-title="🅰️irtel | News", Times Now Navbharat
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/times-now-navbharat/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=news24
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NEWS24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a59d8fb452ad919b7e/images/556.webp" group-title="🅰️irtel | News", News24
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/news24/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-business
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BUSINESS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797977c4589e08ce80f9b8/images/141.webp" group-title="🅰️irtel | News", Zee Business
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-business/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=et-now-swadesh
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761110e533e2124e759923/images/813.webp" group-title="🅰️irtel | News", ET NOW SWADESH
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/et-now-swadesh/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-rajasthan-news
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979c5a9540e6b3ede4a58/images/376.webp" group-title="🅰️irtel | News", Zee Rajasthan News
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-rajasthan-news/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-madhya-pradesh-chhattisgarh
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_MADHYA_PRADESH_CHHATTISGARH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579792dc4589e08ce80f4db/images/658.webp" group-title="🅰️irtel | Regional", Zee Madhya Pradesh Chhattisgarh
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-madhya-pradesh-chhattisgarh/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-news
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ed83bf8d2567aaca69/images/447.webp" group-title="🅰️irtel | News", DD News
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-news/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=mirror-now
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MIRROR_NOW" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff751545a0652105e7d/images/482.webp" group-title="🅰️irtel | News", MIRROR NOW
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/mirror-now/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=wion
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_WION" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e39b315d22c1f80e84/images/606.webp" group-title="🅰️irtel | News", WION
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/wion/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=tlc
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TLC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ab25986346a8f0e2f1/images/275.webp" group-title="🅰️irtel | Lifestyle", TLC
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/tlc/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-zest
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_ZEST" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e7a8676a17df103068/images/497.webp" group-title="🅰️irtel | Entertainment", Zee Zest
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-zest/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=travelxp
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TRAVELXP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978c3c5625a16ee72eb73/images/412.webp" group-title="🅰️irtel | Lifestyle", Travelxp
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/travelxp/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=discovery-channel
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_CHANNEL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761105e533e2124e759846/images/313.webp" group-title="🅰️irtel | Infotainment", Discovery Channel
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/discovery-channel/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=animal-planet
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ANIMAL_PLANET" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e283bf8d2567aac9d7/images/262.webp" group-title="🅰️irtel | Infotainment", Animal Planet
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/animal-planet/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=discovery-science
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_SCIENCE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761111a3b7866cb8414d76/images/110.webp" group-title="🅰️irtel | Infotainment", Discovery Science
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/discovery-science/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=discovery-turbo
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b3/images/303.webp" group-title="🅰️irtel | Infotainment", Discovery Turbo
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/discovery-turbo/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-bbc-earth
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5e6033abf53d08e9e78/images/LANDSCAPE_169/LANDSCAPE_169_zNKeOGwCp_Sony-BBC-Earth-SD_264x144.webp" group-title="🅰️irtel | Infotainment", Sony BBC earth
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-bbc-earth/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sansad-tv---1-sd
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SANSAD_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e891cd2bb19dca31199/images/384.webp" group-title="🅰️irtel | Infotainment", Sansad TV - 1 SD
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sansad-tv---1-sd/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sansad-tv---2-hd
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SANSAD_TV_HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f14d21a0c75770866eb/images/239.webp" group-title="🅰️irtel | Infotainment", Sansad TV - 2 HD
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sansad-tv---2-hd/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=gyandarshan
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GYANDARSHAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfeb23d1fb238115e255/images/132.webp" group-title="🅰️irtel | Infotainment", Gyandarshan
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/gyandarshan/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=cartoon-network
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_CARTOON_NETWORK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33c/images/594.webp" group-title="🅰️irtel | Kids", Cartoon Network
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/cartoon-network/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=pogo
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_POGO" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a69d8fb452ad919b83/images/494.webp" group-title="🅰️irtel | Kids", Pogo
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/pogo/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=discovery-kids
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b8/images/169.webp" group-title="🅰️irtel | Kids", Discovery Kids
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/discovery-kids/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=gubbare
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_GUBBARE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff483bf8d2567aab4d1/images/770.webp" group-title="🅰️irtel | Kids", Gubbare
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/gubbare/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-yay
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_YAY" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978bbac7f66229607b5db/images/189221101.webp" group-title="🅰️irtel | Kids", Sony Yay
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-yay/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=b4u-music
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_MUSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f151545a0652107a65/images/527.webp" group-title="🅰️irtel | Music", B4U Music
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/b4u-music/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=showbox
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SHOWBOX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978af9b315d22c1f80b77/images/565.webp" group-title="🅰️irtel | Music", Showbox
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/showbox/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zoom
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZOOM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579794e25986346a8f0edcf/images/51.webp" group-title="🅰️irtel | Music", Zoom
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zoom/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zing
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZING" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978eca8676a17df1030b6/images/285220610.webp" group-title="🅰️irtel | Music", Zing
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zing/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-marathi
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65776427c4589e08ce80e5d2/images/209.webp" group-title="🅰️irtel | Regional", Zee Marathi
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-marathi/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-yuva
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_YUVA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6577641e8d36cd1598f9538a/images/668.webp" group-title="🅰️irtel | Regional", Zee Yuva
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-yuva/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-marathi
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e36cbc4372820a5a9c/images/351221101.webp" group-title="🅰️irtel | Regional", Sony Marathi
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-marathi/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-talkies
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_TALKIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579798dc5625a16ee72fb5a/images/128.webp" group-title="🅰️irtel | Regional", Zee Talkies
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-talkies/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=fakt-marathi
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_FAKT_MARATHI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f968fe0772265fee2883/images/295.webp" group-title="🅰️irtel | Regional", Fakt Marathi
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/fakt-marathi/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=abp-majha
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_MAJHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f15cfe0772265fedd308/images/615.webp" group-title="🅰️irtel | News", ABP Majha
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/abp-majha/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=saam-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SAAM_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978d211ea19309d4c5be8/images/38.webp" group-title="🅰️irtel | Regional", Saam TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/saam-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-24-taas
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_24_TAAS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657979f0c5625a16ee730316/images/458.webp" group-title="🅰️irtel | News", Zee 24 Taas
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-24-taas/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-sahyadri
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SAHYADRI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611a9e533e2124e75aae4/images/292.webp" group-title="🅰️irtel | Regional", DD Sahyadri
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-sahyadri/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=ptc-punjabi
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PTC_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978979383dc75068840db/images/231.webp" group-title="🅰️irtel | Regional", PTC Punjabi
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/ptc-punjabi/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-punjabi
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00ae533e2124e7579e5/images/672.webp" group-title="🅰️irtel | Regional", Zee Punjabi
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-punjabi/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=pitaara
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PITAARA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f0c1cd2bb19dca31753/images/280.webp" group-title="🅰️irtel | Regional", Pitaara
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/pitaara/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=ptc-simran
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PTC_SIMRAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5c9033abf53d08e9d33/images/506.webp" group-title="🅰️irtel | Regional", PTC Simran
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/ptc-simran/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=mh1
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00ef03c4100b4b695bc/images/360.webp" group-title="🅰️irtel | Regional", MH1
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/mh1/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-punjabi
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_PUNJABI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f940/images/12.webp" group-title="🅰️irtel | Regional", DD Punjabi
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-punjabi/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-24-kalak
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_24_KALAK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a89b315d22c1f80b15/images/246.webp" group-title="🅰️irtel | News", Zee 24 Kalak
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-24-kalak/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=abp-asmita
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_ASMITA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eedd033abf53d08e53ee/images/287.webp" group-title="🅰️irtel | News", ABP Asmita
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/abp-asmita/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-girnar
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_GIRNAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f939/images/78.webp" group-title="🅰️irtel | Regional", DD Girnar
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-girnar/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=otv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_OTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657764159f7e407f8ff23c00/images/319.webp" group-title="🅰️irtel | Regional", OTV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/otv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-oriya
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_ORIYA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e7/images/155.webp" group-title="🅰️irtel | Regional", DD Oriya
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-oriya/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=salaam-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SALAAM_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/658c0fb69699c97abab27e50/images/LANDSCAPE_169/LANDSCAPE_169_mfjG54ytJ_Salaam_TV_Eng_264x144.webp" group-title="🅰️irtel | Regional", Salaam TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/salaam-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-urdu
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_URDU" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8af/images/466.webp" group-title="🅰️irtel | Regional", DD Urdu
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-urdu/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-kashir
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_KASHIR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610f961da8470744738e6/images/273.webp" group-title="🅰️irtel | Regional", DD Kashir
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-kashir/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=rengoni-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RENGONI_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bffd1d2c0e2cbafc1d91/images/242.webp" group-title="🅰️irtel | Regional", Rengoni TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/rengoni-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-imphal
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_IMPHAL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f93b/images/23.webp" group-title="🅰️irtel | News", DD Imphal
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-imphal/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-north-east
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_NORTH_EAST" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576110f6886c012a8aa2950/images/LANDSCAPE_169/LANDSCAPE_169_FSJdlxo_n_DD-North-East_264x144.webp" group-title="🅰️irtel | Regional", DD North East
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-north-east/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=b4u-bhojpuri
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_B4U_BHOJPURI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef49fe0772265fedbf4c/images/307.webp" group-title="🅰️irtel | Regional", B4U Bhojpuri
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/b4u-bhojpuri/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-biskope
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_BISKOPE" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797941a8676a17df103684/images/670.webp" group-title="🅰️irtel | Regional", Zee Biskope
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-biskope/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-bihar
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BIHAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6576113851545a0652108306/images/514.webp" group-title="🅰️irtel | News", DD Bihar
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-bihar/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=aastha
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_AASTHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eed7033abf53d08e53b4/images/491.webp" group-title="🅰️irtel | Devotional", Aastha
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/aastha/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sanskar
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SANSKAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ad9b315d22c1f80b64/images/557.webp" group-title="🅰️irtel | Devotional", Sanskar
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sanskar/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=mh-one-shraddha
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff5e533e2124e757677/images/20.webp" group-title="🅰️irtel | Devotional", MH One Shraddha
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/mh-one-shraddha/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=divya-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DIVYA_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65761107a3b7866cb8414c72/images/107.webp" group-title="🅰️irtel | Devotional", Divya TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/divya-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=satsang
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SATSANG" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f68d36cd1598f9677a/images/642.webp" group-title="🅰️irtel | Devotional", Satsang
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/satsang/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=enterr10-bangla
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f323fe0772265fede4ba/images/76.webp" group-title="🅰️irtel | Regional", Enterr10 Bangla
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/enterr10-bangla/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=rongeen-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RONGEEN_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00b885fc401d48ff875/images/910.webp" group-title="🅰️irtel | Entertainment", Rongeen Tv
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/rongeen-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=abp-ananda
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ABP_ANANDA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9da/images/LANDSCAPE_169/LANDSCAPE_169_hfSOYTVDB_ABP-Ananda.webp" group-title="🅰️irtel | News", ABP Ananda
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/abp-ananda/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=r.-bangla
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00b885fc401d48ff870/images/780.webp" group-title="🅰️irtel | News", R. Bangla
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/r.-bangla/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-bangla
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_BANGLA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657611a052133304ca05ffc7/images/478.webp" group-title="🅰️irtel | Regional", DD Bangla
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-bangla/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=puthu-yugam
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUTHU_YUGAM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f5bc033abf53d08e9ca4/images/638.webp" group-title="🅰️irtel | Regional", Puthu Yugam
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/puthu-yugam/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=vasanth-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_VASANTH_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fde6fe0772265fee5b84/images/327.webp" group-title="🅰️irtel | Regional", Vasanth TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/vasanth-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=puthiya-thalaimurai
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f032033abf53d08e6245/images/481.webp" group-title="🅰️irtel | News", Puthiya Thalaimurai
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/puthiya-thalaimurai/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sathiyam-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SATHIYAM_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f07d033abf53d08e6559/images/630.webp" group-title="🅰️irtel | News", Sathiyam TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sathiyam-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=sony-sports-ten-4
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f16cdc5dfc4403f7beeb/images/LANDSCAPE_169/LANDSCAPE_169_1WRe-uvTy_Sony-sports-Ten-4_264x144.webp" group-title="🅰️irtel | Sports", SONY SPORTS TEN 4
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/sony-sports-ten-4/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-tamil
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_TAMIL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LANDSCAPE_169/LANDSCAPE_169_AvMnOEpSh_DD-Tamil_264x144.webp" group-title="🅰️irtel | Regional", DD Tamil
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-tamil/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=mazhavil-manorama
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105e03/images/5.webp" group-title="🅰️irtel | Regional", Mazhavil Manorama
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/mazhavil-manorama/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=asianet-news
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ASIANET_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0461aaa41b21ae460a1b8/images/LANDSCAPE_169/LANDSCAPE_169_hMw_9cMa-_DAsianet-News_264x144.webp" group-title="🅰️irtel | News", Asianet News
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/asianet-news/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=twenty-four
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_TWENTY_FOUR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f231033abf53d08e7832/images/644.webp" group-title="🅰️irtel | News", Twenty Four
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/twenty-four/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-malayalam
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_MALAYALAM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ec23d1fb238115f943/images/199.webp" group-title="🅰️irtel | News", DD Malayalam
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-malayalam/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=ntv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_NTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f0a3dc5dfc4403f7b5a1/images/121.webp" group-title="🅰️irtel | News", NTV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/ntv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=v6-news
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_V6_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4f5033abf53d08e94f2/images/190.webp" group-title="🅰️irtel | News", V6 NEWS
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/v6-news/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=10tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_10TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f11cfe0772265fedd068/images/123.webp" group-title="🅰️irtel | Regional", 10TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/10tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=bhakti-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_BHAKTI_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e283bf8d2567aac9d9/images/176.webp" group-title="🅰️irtel | Devotional", Bhakti TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/bhakti-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-yadagiri
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_YADAGIRI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e651545a0652107952/images/555.webp" group-title="🅰️irtel | Regional", DD Yadagiri
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-yadagiri/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-saptagiri
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e623d1fb238115f8b0/images/365.webp" group-title="🅰️irtel | Regional", DD Saptagiri
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-saptagiri/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=public-movies
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f43afe0772265fedf0d1/images/693.webp" group-title="🅰️irtel | Regional", PUBLIC MOVIES
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/public-movies/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=zee-picchar
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ZEE_PICCHAR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572fd4bfe0772265fee5474/images/697.webp" group-title="🅰️irtel | Regional", Zee Picchar
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/zee-picchar/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=asianet-suvarna-news
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ASIANET_SUVARNA_NEWS" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0461aaa41b21ae460a1bb/images/LANDSCAPE_169/LANDSCAPE_169_5UD-yVOeT_Asianet-suvarna-news_264x144.webp" group-title="🅰️irtel | News", Asianet Suvarna News
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/asianet-suvarna-news/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=public-tv
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736eb4ded97660c182aba8/images/323.webp" group-title="🅰️irtel | Regional", Public TV
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/public-tv/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=r.kannada
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f3bc033abf53d08e879e/images/250231007.webp" group-title="🅰️irtel | News", R.Kannada
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/r.kannada/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=dd-chandana
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DD_CHANDANA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610e651545a065210794b/images/535.webp" group-title="🅰️irtel | Regional", DD Chandana
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/dd-chandana/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/license/key?id=public-music
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_MUSIC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f1b1cd2bb19dca317ec/images/875.webp" group-title="🅰️irtel | Music", PUBLIC MUSIC
+#EXTVLCOPT:http-user-agent:tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://m3u.ygxworld.in/p/KzW3NzRoopXk/artl/public-music/manifest.mpd|User-Agent="tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ExoPlayerLib/2.19.1"
+
