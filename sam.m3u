@@ -3746,7 +3746,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd/default/Sansadtvsd.m3u8
 
 
 ×××××××××××××× Tata IPL ×××××××××××××××××
-
+#EXTINF:-1 tvg-id="1260000035" tvg-logo="https://i.ibb.co/NNSyf29/IMG-20220810-102425-689.jpg" group-title="Cricket" ,Star Sports 1 HD1
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/star-35.mpd
+https://mix.drmlive.net/mix/star-35.mpd
 
 ×××××××××××××× Airtel tv×××××××××××××××××
 ××××××××××××××Sony LIV×××××××××××××××××
