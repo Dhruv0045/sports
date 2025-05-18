@@ -3746,12 +3746,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvsd/default/Sansadtvsd.m3u8
 
 
 ×××××××××××××× Tata IPL ×××××××××××××××××
-#EXTINF:-1 tvg-id="1260000035" tvg-logo="https://i.ibb.co/NNSyf29/IMG-20220810-102425-689.jpg" group-title="Cricket" ,Star Sports 1 HD1
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/star-35.mpd
-https://mix.drmlive.net/mix/star-35.mpd
+#EXTM3U
+#EXTINF:-1 tvg-id="StarSports2HindiHD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Star_Sports_Logo.svg/1200px-Star_Sports_Logo.svg.png" group-title="Sports",Star Sports 2 Hindi HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?__hdnea__=st=1747521607~exp=1747608007~acl=/*~hmac=0c074d4e60539538edf91fdb25484c564b0cd0315702d1344ab47aebab176e7f
 
 ××××××××××××××SUN NXT×××××××××××××××××
 #EXTM3U
