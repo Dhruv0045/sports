@@ -3933,3 +3933,28 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony WAH HD 
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+×××××××××××××× Sony Liv Live events ×××××××××××××××××
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1090479699" tvg-name="🏎️ Tokyo E-Prix Qualifying" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002517/174732499632645_ABBFEWC25_Round9_TokyoEPrix_Qualifying_Race_15may_landscape_thumb.jpg" group-title="🏁 Racing",🏎️ ABB Formula E 2024-25 - Round 9 - Tokyo E-Prix - Qualifying Race
+https://sonydaimenew.akamaized.net/hls/live/2037141-b/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1747579729~acl=/*~id=00583011130118618195345566823711~hmac=039c94eaf20fe422897f8544659b86f87b565df6708d014513a7db0a98b867c7
+
+#EXTINF:-1 tvg-id="1090477398" tvg-name="🎾 Roland-Garros 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg" group-title="🎾 Tennis",🎾 Roland-Garros 2025 (Upcoming Match)
+# No stream available
+×××××××××××××× Fancode ×××××××××××××××××
+#EXTM3U
+#EXTINF:-1, Thailand Women vs United Arab Emirates Women (Cricket)
+https://dai.fancode.com/primary/124524_english_hls_16942ta-di_h264/index.m3u8
+#EXTINF:-1, Los Angeles Dodgers vs Los Angeles Angels (Baseball)
+https://dai.fancode.com/primary/124616_english_hls_7983ta-di_h264/index.m3u8
+#EXTINF:-1, Alappuzha vs Malappuram (Cricket) ⏰ Starts at 08:45:00 AM 18-05-2025
+#EXTINF:-1, 91 Yards Club Women vs S.G.Club Women (Cricket) ⏰ Starts at 09:15:00 AM 18-05-2025
+#EXTINF:-1, NBSC Lions vs YRCC Birat Blasters (Cricket) ⏰ Starts at 10:30:00 AM 18-05-2025
+#EXTINF:-1, Estonia Women vs Bulgaria Women (Cricket) ⏰ Starts at 11:30:00 AM 18-05-2025
+#EXTINF:-1, Idukki vs Kazaragod (Cricket) ⏰ Starts at 01:00:00 PM 18-05-2025
+#EXTINF:-1, Rising Star Women vs Maharana AC Women (Cricket) ⏰ Starts at 01:15:00 PM 18-05-2025
+#EXTINF:-1, Agro Vet CC vs Biratnagar Panthers (Cricket) ⏰ Starts at 01:15:00 PM 18-05-2025
+#EXTINF:-1, Estonia Women vs Bulgaria Women (Cricket) ⏰ Starts at 01:45:00 PM 18-05-2025
+#EXTINF:-1, Malmohus-W vs Goteburg CC-W (Cricket) ⏰ Starts at 02:15:00 PM 18-05-2025
+#EXTINF:-1, Estonia Women vs Bulgaria Women (Cricket) ⏰ Starts at 04:30:00 PM 18-05-2025
