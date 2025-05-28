@@ -3885,7 +3885,7 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
 
-××××××××××××××Sony LIV×××××××××××××××××
+×××××××××××××TataPlay FILEX×××××××××××××××××
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png" tvg-chno="5" group-title="Sony LIV ",Sony Marathi! HD 
@@ -3929,25 +3929,49 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 ×××××××××××××× Sony Liv Live events ×××××××××××××××××
 #EXTM3U
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN | SONY SET HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set_in.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | SONY SET HD
 
-#EXTINF:-1 tvg-id="1090479699" tvg-name="🏎️ Tokyo E-Prix Qualifying" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002517/174732499632645_ABBFEWC25_Round9_TokyoEPrix_Qualifying_Race_15may_landscape_thumb.jpg" group-title="🏁 Racing",🏎️ ABB Formula E 2024-25 - Round 9 - Tokyo E-Prix - Qualifying Race
-https://sonydaimenew.akamaized.net/hls/live/2037141-b/DAI36ME-V3/master_mdh.m3u8?hdnea=exp=1747579729~acl=/*~id=00583011130118618195345566823711~hmac=039c94eaf20fe422897f8544659b86f87b565df6708d014513a7db0a98b867c7
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/15
 
-#EXTINF:-1 tvg-id="1090477398" tvg-name="🎾 Roland-Garros 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000002545/174738980400074_Roland_Garros_2025_1_GOB_Landscape_Thumb_Dated_SP3.jpg" group-title="🎾 Tennis",🎾 Roland-Garros 2025 (Upcoming Match)
-# No stream available
-×××××××××××××× Fancode ×××××××××××××××××
-#EXTM3U
-#EXTINF:-1, Thailand Women vs United Arab Emirates Women (Cricket)
-https://dai.fancode.com/primary/124524_english_hls_16942ta-di_h264/index.m3u8
-#EXTINF:-1, Los Angeles Dodgers vs Los Angeles Angels (Baseball)
-https://dai.fancode.com/primary/124616_english_hls_7983ta-di_h264/index.m3u8
-#EXTINF:-1, Alappuzha vs Malappuram (Cricket) ⏰ Starts at 08:45:00 AM 18-05-2025
-#EXTINF:-1, 91 Yards Club Women vs S.G.Club Women (Cricket) ⏰ Starts at 09:15:00 AM 18-05-2025
-#EXTINF:-1, NBSC Lions vs YRCC Birat Blasters (Cricket) ⏰ Starts at 10:30:00 AM 18-05-2025
-#EXTINF:-1, Estonia Women vs Bulgaria Women (Cricket) ⏰ Starts at 11:30:00 AM 18-05-2025
-#EXTINF:-1, Idukki vs Kazaragod (Cricket) ⏰ Starts at 01:00:00 PM 18-05-2025
-#EXTINF:-1, Rising Star Women vs Maharana AC Women (Cricket) ⏰ Starts at 01:15:00 PM 18-05-2025
-#EXTINF:-1, Agro Vet CC vs Biratnagar Panthers (Cricket) ⏰ Starts at 01:15:00 PM 18-05-2025
-#EXTINF:-1, Estonia Women vs Bulgaria Women (Cricket) ⏰ Starts at 01:45:00 PM 18-05-2025
-#EXTINF:-1, Malmohus-W vs Goteburg CC-W (Cricket) ⏰ Starts at 02:15:00 PM 18-05-2025
-#EXTINF:-1, Estonia Women vs Bulgaria Women (Cricket) ⏰ Starts at 04:30:00 PM 18-05-2025
+#EXTINF:-1 tvg-id="STAR Plus HD" tvg-name="IN | STAR PLUS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-plus-hk.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | STAR PLUS HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/17
+
+#EXTINF:-1 tvg-id="Colors HD" tvg-name="IN | COLORS HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | COLORS HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/19
+
+#EXTINF:-1 tvg-id="Star Bharat HD" tvg-name="IN | STAR BHARAT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-bharat-hk-in.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | STAR BHARAT HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/21
+
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="IN | & TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_tv_in.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | & TV HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/23
+
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-name="IN| SONY SAB HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="INDIAN ➾ ENTERTAINMENT",IN| SONY SAB HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/25
+
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | STAR GOLD SELECT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_select_hd.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | STAR GOLD SELECT HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/28
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | STAR GOLD HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/29
+
+#EXTINF:-1 tvg-id="Star Gold 2 HD" tvg-name="IN | STAR GOLD 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | STAR GOLD 2 HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/31
+
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-name="IN | SONY MAX 2 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | SONY MAX 2 HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/32
+
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-name="IN | SONY MAX HD" tvg-logo="http://filex.tv:8080/images/93a3eb73578a3d9fc24502ad866b1d7f.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | SONY MAX HD
+
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/33
+
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & PICTURES HD" tvg-logo="http://filex.tv:8080/images/06ae3d7e2037a51f743e3b718f5f70e9.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | & PICTURES HD
+http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/35
