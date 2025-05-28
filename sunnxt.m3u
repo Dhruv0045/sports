@@ -3734,8 +3734,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dish_TV_Logo.svg/2560px-Dish_TV_Logo.svg.png" group-title="📺 DishTv | Entertainment", Shorts TV Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/drciav.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dish_TV_Logo.svg/2560px-Dish_TV_Logo.svg.png" group-title="📺 DishTv | Education", DD Bharati
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/Ddbharti.m3u8
 
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ptcgyh.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dish_TV_Logo.svg/2560px-Dish_TV_Logo.svg.png" group-title="📺 DishTv | News", Sansad TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/Sansadtvhd.m3u8
