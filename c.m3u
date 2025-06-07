@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="https://your-epg-source.xml"
+
+#EXTINF:-1 tvg-id="gareth18456" tvg-name="Gareth Channel" tvg-logo="https://your-logo-url.com/logo1.png" group-title="Sports",Gareth Channel (ID: 18456)
+https://techcoder.vercel.app/api/sz/18456.m3u8
+
+#EXTINF:-1 tvg-id="gareth18457" tvg-name="Gareth News" tvg-logo="https://your-logo-url.com/logo2.png" group-title="News",Gareth News (ID: 18457)
+https://techcoder.vercel.app/api/sz/18457.m3u8
+
+#EXTINF:-1 tvg-id="gareth18458" tvg-name="Gareth Movies" tvg-logo="https://your-logo-url.com/logo3.png" group-title="Movies",Gareth Movies (ID: 18458)
+https://techcoder.vercel.app/api/sz/18455.m3u8
