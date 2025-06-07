@@ -49,13 +49,6 @@ https://play.denver1769.fun/J/Jtv.mpd?id=162|User-Agent=Denver1769
 
 ---------------------------------------------Punjabi Entertermaint--------------------------
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=654&key
-#EXTINF:-1 tvg-id="654" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="News",Zee Punjabi HP Haryana
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=654|User-Agent=Denver1769
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jtv-keys.techcoder40.workers.dev/keys?id=654
 #EXTINF:-1 tvg-id="654" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="News",Zee Punjabi HP Haryana
 #EXTVLCOPT:http-user-agent=Denver1769
