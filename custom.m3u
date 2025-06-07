@@ -1,0 +1,44 @@
+-----------------------------------------Kids--------------------------------------------
+#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
+#EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702&xxx=%7Ccookie=__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702
+
+#EXTINF:-1 tvg-id="1374" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702&xxx=%7Ccookie=__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702
+
+#EXTINF:-1 tvg-id="1391" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",Hungama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=454f8353caac500d95d641e0c7cfe048:0aaca46ea0f5096335598781fbe590e4
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd?__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702&xxx=%7Ccookie=__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=559&key
+#EXTINF:-1 tvg-id="559" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo Hindi
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/J/Jtv.mpd?id=559|User-Agent=Denver1769
+
+-----------------------------------------------------------------------Sports-----------------------------------------------
+#EXTM3U
+x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
+#EXTINF:-1 tvg-id="155" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/J/Jtv.mpd?id=155|User-Agent=Denver1769
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=162&key
+#EXTINF:-1 tvg-id="162" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.fun/J/Jtv.mpd?id=162|User-Agent=Denver1769
