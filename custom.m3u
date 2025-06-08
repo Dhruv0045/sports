@@ -72,8 +72,16 @@ https://livetvbox.live:443/live/Gareth/Gareth123/5864.ts
 https://livetvbox.live:443/live/Gareth/Gareth123/5866.ts
 
 ---------------------------------------------Hindi Entertermaint--------------------------
-#EXTINF:-1 tvg-id="" tvg-name="US (IN)  Star Gold" tvg-logo="" group-title="USA ASIAN",US (IN)  Star Gold
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="" group-title="USA ASIAN",US (IN)  Star Gold
 https://livetvbox.live:443/live/Gareth/Gareth123/375332.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SAB (FHD)" tvg-logo="https://i.ibb.co/Ns8hynf/Sony-Sab-new.png" group-title="INDIA ENTERTAINMENT",IN: SAB (FHD)
+https://livetvbox.live:443/live/Gareth/Gareth123/9368.ts
+#EXTINF:-1 tvg-id="ts40" tvg-name="IN: & TV HD" tvg-logo="https://i.ibb.co/QKh19yZ/512x512bb-1.png" group-title="INDIA ENTERTAINMENT",IN: & TV HD
+https://livetvbox.live:443/live/Gareth/Gareth123/232.ts
+#EXTINF:-1 tvg-id="ts40" tvg-name="&TV (FHD)" tvg-logo="https://i.ibb.co/QKh19yZ/512x512bb-1.png" group-title="INDIA ENTERTAINMENT",IN: &TV (FHD)
+https://livetvbox.live:443/live/Gareth/Gareth123/9369.ts
+#EXTINF:-1 tvg-id="ts63" tvg-name="ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="INDIA ENTERTAINMENT",IN: ZEE TV HD
+https://livetvbox.live:443/live/Gareth/Gareth123/161.ts
 
 ---------------------------------------------Marathi News--------------------------
 #EXTINF:-1 tvg-id="" tvg-name="Marathi:ABP Majha" tvg-logo="" group-title="MARATHI",ABP Majha
