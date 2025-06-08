@@ -16,41 +16,74 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702&xxx=%7Ccookie=__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702
 
-#EXTINF:-1 tvg-id="1391" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",Hungama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=454f8353caac500d95d641e0c7cfe048:0aaca46ea0f5096335598781fbe590e4
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd?__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702&xxx=%7Ccookie=__hdnea__=st=1749261648~exp=1749348048~acl=/*~hmac=ede97e56386aea5f0071642af0fe3f7a600cb79eb9f1e76d0c42043815eb8702
+#EXTINF:-1 tvg-id="" tvg-name="Kids: Hungama" tvg-logo="" group-title="KIDS",Kids: Hungama
+https://livetvbox.live:443/live/Gareth/Gareth123/18456.ts
 
+#EXTINF:-1 tvg-id="pogo.in" tvg-name=" IN: Pogo_Hindi" tvg-logo="" group-title="KIDS", IN: Pogo_Hindi
+https://livetvbox.live:443/live/Gareth/Gareth123/1918.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=559&key
-#EXTINF:-1 tvg-id="559" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo Hindi
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=559|User-Agent=Denver1769
+#EXTINF:-1 tvg-id="disneychannel.za" tvg-name="Disney Channel" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png" group-title="KIDS",Disney Channel
+https://livetvbox.live:443/live/Gareth/Gareth123/19832.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: ETV Bal Bharat SD" tvg-logo="" group-title="KIDS",KIDS: ETV Bal Bharat SD
+https://livetvbox.live:443/live/Gareth/Gareth123/355286.ts
 -----------------------------------------------------------------------Sports-----------------------------------------------
-#EXTM3U
-x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony TEN 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS",TEN 1 (4K).
+https://livetvbox.live:443/live/Gareth/Gareth123/98861.ts
 
-#EXTINF:-1 tvg-id="155" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=155|User-Agent=Denver1769
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=162&key
-#EXTINF:-1 tvg-id="162" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=162|User-Agent=Denver1769
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony TEN 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS",TEN 2 (4K).
+https://livetvbox.live:443/live/Gareth/Gareth123/98862.ts
 
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony TEN 3 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS",TEN 3 (4K).
+https://livetvbox.live:443/live/Gareth/Gareth123/98863.ts
 
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY TEN 5 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: SONY TEN 5 (4K).
+https://livetvbox.live:443/live/Gareth/Gareth123/98870.ts
 
 
 
 ---------------------------------------------Punjabi Entertermaint--------------------------
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jtv-keys.techcoder40.workers.dev/keys?id=654
-#EXTINF:-1 tvg-id="654" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="News",Zee Punjabi HP Haryana
-#EXTVLCOPT:http-user-agent=Denver1769
-https://play.denver1769.fun/J/Jtv.mpd?id=654|User-Agent=Denver1769
+#EXTINF:-1 tvg-id="" tvg-name="ZEE PUNJABI" tvg-logo="https://static.epg.best/in/ZPunjabHRHP.in.png" group-title="PUNJABI", ZEE PUNJABI
+https://livetvbox.live:443/live/Gareth/Gareth123/52082.ts
+
+#EXTINF:-1 tvg-id="mhoneshraddha.in" tvg-name="MH One Shraddha" tvg-logo="" group-title="PUNJABI",PB: MH One Shraddha
+https://livetvbox.live:443/live/Gareth/Gareth123/371561.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="PUNJABI",PB: PTC PUNJABI
+https://livetvbox.live:443/live/Gareth/Gareth123/171.ts
+
+---------------------------------------------Marathi Entertermaint--------------------------
+
+#EXTINF:-1 tvg-id="zeetalkieshd.in" tvg-name="Marathi: ZEE TALKIES (FHD)" tvg-logo="" group-title="MARATHI",Marathi: ZEE TALKIES (FHD)
+https://livetvbox.live:443/live/Gareth/Gareth123/85695.ts
+
+#EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="Marathi: ZEE Marathi (FHD)" tvg-logo="" group-title="MARATHI",Marathi: ZEE Marathi (FHD)
+https://livetvbox.live:443/live/Gareth/Gareth123/85694.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors:Marathi" tvg-logo="https://cdn.colorsmarathi.com/wp-content/uploads/2020/02/25140832/CM-Logo-without-Petal.png" group-title="MARATHI",Colors:Marathi
+https://livetvbox.live:443/live/Gareth/Gareth123/5872.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Parvaha FHD" tvg-logo="" group-title="MARATHI",Star Parvaha FHD
+https://livetvbox.live:443/live/Gareth/Gareth123/5874.ts
+
+#EXTINF:-1 tvg-id="sangeetmarathi.in" tvg-name="Sangeet Marathi(lk)" tvg-logo="" group-title="MARATHI",Sangeet Marathi(lk)
+https://livetvbox.live:443/live/Gareth/Gareth123/5864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Yuva" tvg-logo="" group-title="MARATHI",Zee Yuva
+https://livetvbox.live:443/live/Gareth/Gareth123/5866.ts
+
+---------------------------------------------Hindi Entertermaint--------------------------
+#EXTINF:-1 tvg-id="" tvg-name="US (IN)  Star Gold" tvg-logo="" group-title="USA ASIAN",US (IN)  Star Gold
+https://livetvbox.live:443/live/Gareth/Gareth123/375332.ts
+
+---------------------------------------------Marathi News--------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:ABP Majha" tvg-logo="" group-title="MARATHI",ABP Majha
+https://livetvbox.live:443/live/Gareth/Gareth123/5859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:DD Sahyadri HD(lk)" tvg-logo="" group-title="MARATHI",DD Sahyadri HD(lk)
+https://livetvbox.live:443/live/Gareth/Gareth123/5860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:Fakt marathi" tvg-logo="" group-title="MARATHI",Fakt marathi
+https://livetvbox.live:443/live/Gareth/Gareth123/5861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:News18 Lokmat" tvg-logo="" group-title="MARATHI",News18 Lokmat
+https://livetvbox.live:443/live/Gareth/Gareth123/5862.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:TV9 Marathi HD" tvg-logo="" group-title="MARATHI",TV9 Marathi HD
+https://livetvbox.live:443/live/Gareth/Gareth123/5863.ts
 
