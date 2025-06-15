@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ts842" tvg-name="Somnath Temple" tvg-language="Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="Tataplay🎭Spiritual" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3KVAZoGNNp_XukewD6IpHvCA5G6JaI3FDOad35nhBgIpVIwJUzuJ0wEc" catchup="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}", Somnath Temple
+#EXTINF:-1 tvg-id="ts842" tvg-name="Somnath Temple" tvg-language="Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="Tataplay🎭Spiritual", Somnath Temple
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://peakyiptv.techcoder40.workers.dev/key/HYzxs73sdi83KDzq
+#KODIPROP:inputstream.adaptive.license_key=https://peakyiptv.techcoder40.workers.dev/keys.json?id=842&uid=5177396282&pass=11ba37e0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://delta45tatasky.akamaized.net/out/i/722.mpd|Origin="https://watch.tataplay.com"&Referer="https://watch.tataplay.com/"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36"
+https://delta45tatasky.akamaized.net/out/i/722.mpd|Referer=https://watch.tataplay.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
