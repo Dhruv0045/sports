@@ -3976,3 +3976,8 @@ http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/33
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & PICTURES HD" tvg-logo="http://filex.tv:8080/images/06ae3d7e2037a51f743e3b718f5f70e9.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | & PICTURES HD
 http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/35
 ###################Airtel TV################################
+
+#EXTM3U
+#EXTINF:-1 tvg-id="starsports2hd" tvg-name="IND vs ENG Live 5 Day Test" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6162/1750354196162-h" group-title="Cricket",IND vs ENG Live 5 Day Test 
+https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?__hdnea__=st=1750353007~exp=1750439407~acl=/*~hmac=f2f0cdab0acf91a76caaf4f407cb41df172ce0c5d9757607dedd7765ced63c2b
+
