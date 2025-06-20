@@ -3978,6 +3978,5 @@ http://filex.tv:8080/@singh_tesla_7207492/puWnhEGsXpK3/35
 ###################Airtel TV################################
 
 #EXTM3U
-#EXTINF:-1 tvg-id="starsports2hd" tvg-name="IND vs ENG Live 5 Day Test" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6162/1750354196162-h" group-title="Cricket",IND vs ENG Live 5 Day Test 
-https://jiotvmblive.cdn.jio.com/bpk-tv/StarSports_2_Hin_HD_voot_MOB/output03/index.m3u8?__hdnea__=st=1750353007~exp=1750439407~acl=/*~hmac=f2f0cdab0acf91a76caaf4f407cb41df172ce0c5d9757607dedd7765ced63c2b
-
+#EXTINF:-1 tvg-id="starsports2hd" tvg-name="IND vs ENG Live 5 Day Test English" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,t_web_hs_1x/sources/r1/cms/prod/6162/1750354196162-h" group-title="Cricket",IND vs ENG Live 5 Day Test 
+https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1750441177~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=90c07fa67fc42dcc1c8e64e3278928903798cb554944b3369d73254afcf0aae1/manifest.mpd?|User-Agent=Denver1769&drmScheme=clearkey&drmLicense=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
