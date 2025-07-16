@@ -4018,3 +4018,11 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony WAH HD 
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+
+###############################################Doremon 24x7
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Doraemon" tvg-language="Hindi" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffromthetube.wordpress.com%2F2013%2F05%2F25%2Fanime-classics-doraemon%2F&psig=AOvVaw1ar984UU1hwsPaIK81ivna&ust=1752717933598000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiSjaClwI4DFQAAAAAdAAAAABAE" group-title="24/7 Cartoon", Doraemon
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8|user-agent="Mozilla/5.0"
