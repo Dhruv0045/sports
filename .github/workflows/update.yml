@@ -26,7 +26,7 @@ jobs:
         run: |
           git remote set-url origin https://${GH_PAT}@github.com/Dhruv0045/sports.git
 
-          if ! git diff --quiet new.m3u; then
+          if ! git diff --quiet Dhruv.m3u; then
             git add new.m3u
             git commit -m "Update new.m3u from alex4528/m3u"
             git push origin main
