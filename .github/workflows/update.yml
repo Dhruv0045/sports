@@ -3,7 +3,7 @@ name: Update new.m3u from artl.m3u
 on:
   schedule:
     - cron: '*/30 * * * *'  # Run every 30 minutes
-  workflow_dispatch:        # Manual trigger
+  workflow_dispatch:        # Allow manual trigger
 
 jobs:
   update-m3u:
@@ -22,18 +22,14 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
 
-      - name: Set remote using GH_PAT
-        run: |
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/Dhruv0045/sports.git
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-
       - name: Commit and push if new.m3u changed
         run: |
+          git remote set-url origin https://${GH_PAT}@github.com/Dhruv0045/sports.git
+
           if ! git diff --quiet new.m3u; then
             git add new.m3u
             git commit -m "Update new.m3u from alex4528/m3u"
-            git push
+            git push origin main
           else
             echo "No changes in new.m3u"
           fi
