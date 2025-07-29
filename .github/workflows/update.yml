@@ -2,34 +2,44 @@ name: Update Airtel Section
 
 on:
   schedule:
-    - cron: '0 */7 * * *'  # every 7 hours
-  workflow_dispatch:
+    - cron: '0 */7 * * *'  # Every 7 hours
+  workflow_dispatch:      # Allow manual run
 
 jobs:
   update-airtel:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+    - name: Checkout your repo
+      uses: actions/checkout@v3
 
-      - name: Set up Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    - name: Download new Airtel section
+      run: |
+        curl -sL https://raw.githubusercontent.com/alex4528/m3u/artl.m3u -o airtel.m3u
 
-      - name: Download artl.m3u
-        run: curl -o artl.m3u https://raw.githubusercontent.com/alex4528/m3u/main/artl.m3u
+    - name: Extract Airtel section from source
+      run: |
+        awk '/^#*Airtel/{p=1; print; next} /^#/{if(p){exit}} p' airtel.m3u > airtel_section.m3u
 
-      - name: Replace Airtel section in new.m3u
-        run: |
-          awk 'BEGIN{p=1}
-               /^###############################################Airtel/{print; p=0; while(getline){if(/^#EXTM3U/){break}}}
-               p{print}
-               END{while((getline k < "artl.m3u") > 0) print k}' sports/new.m3u > temp && mv temp sports/new.m3u
+    - name: Replace Airtel section in new.m3u
+      run: |
+        awk '
+          BEGIN {p=1}
+          /^#*Airtel/ {print_file("airtel_section.m3u"); p=0; skip=1}
+          /^#/{if (skip && p==0) {p=1; skip=0; next}}
+          p {print}
+          function print_file(f) {
+            while ((getline line < f) > 0) print line
+            close(f)
+          }
+        ' sports/new.m3u > sports/new_updated.m3u
 
-      - name: Commit & Push
-        run: |
-          git add sports/new.m3u
-          git diff --cached --quiet || git commit -m "Update Airtel section from alex4528/m3u"
-          git push
+        mv sports/new_updated.m3u sports/new.m3u
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add sports/new.m3u
+        git commit -m "🔄 Auto-update Airtel section from alex4528/m3u"
+        git push
